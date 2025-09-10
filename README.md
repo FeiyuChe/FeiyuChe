@@ -1,6 +1,7 @@
 # Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CC68&center=true&vCenter=true&width=435&lines=Hello+world!)](https://git.io/typing-svg)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeiyuChe&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CC68&center=true&vCenter=true&width=435&lines=Hello+world!)](https://git.io/typing-svg)
 
 <!--
 **FeiyuChe/FeiyuChe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
