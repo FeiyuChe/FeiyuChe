@@ -2,7 +2,7 @@
 
 ## A joke for you
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&textColor=%23000000)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite)
 
 ## Wish you a happy day！
 
