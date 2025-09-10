@@ -1,8 +1,10 @@
-## Hi there 👋
+# Hi there 👋
 
-# wish you gays have a happy day
+## A joke for you
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=gotham)
+
+## Wish you a happy day！
 
 <!--
 **FeiyuChe/FeiyuChe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
