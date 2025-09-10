@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## A joke for you
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite&bgColor=%23000000&textColor=%23FFFFFF)
 ## Wish you a happy day！
 
 <!--
