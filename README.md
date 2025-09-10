@@ -1,10 +1,10 @@
 # Hi there 👋
 
 ## A joke for you
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite&bgColor=%23000000&qColor=%23008000&aColor=%23008000)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite&bgColor=%23000000&qColor=%23FFFFFF&aColor=%FFFFFF)
 ## Wish you a happy day！
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeiyuChe&show_icons=true&theme=transparent)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeiyuChe&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **FeiyuChe/FeiyuChe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
